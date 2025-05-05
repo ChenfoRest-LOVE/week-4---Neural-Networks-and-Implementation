@@ -1,4 +1,3 @@
-# week-4---Neural-Networks-and-Implementation
 
 ## 实现说明
 
